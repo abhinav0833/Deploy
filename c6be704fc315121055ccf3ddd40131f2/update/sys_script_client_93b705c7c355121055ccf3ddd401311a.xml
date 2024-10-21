@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>TestDeploy</name>
+        <order/>
+        <script><![CDATA[function onSubmit() {
+   //Type appropriate comment here, and begin script below
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>abhinav_admin</sys_created_by>
+        <sys_created_on>2024-10-21 16:53:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>93b705c7c355121055ccf3ddd401311a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TestDeploy</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Core Deployment" source="x_946772_core_de_0">c6be704fc315121055ccf3ddd40131f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Core Deployment">c6be704fc315121055ccf3ddd40131f2</sys_scope>
+        <sys_update_name>sys_script_client_93b705c7c355121055ccf3ddd401311a</sys_update_name>
+        <sys_updated_by>abhinav_admin</sys_updated_by>
+        <sys_updated_on>2024-10-21 16:53:09</sys_updated_on>
+        <table>incident</table>
+        <type>onSubmit</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>
